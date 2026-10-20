@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Petit bureau pastel envahi par des notifications et des étoiles">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd9e8"/><stop offset="1" stop-color="#d9d0ff"/></linearGradient></defs>
+ <rect width="600" height="600" rx="42" fill="url(#bg)"/>
+ <g fill="#fff" opacity=".78"><circle cx="90" cy="150" r="38"/><circle cx="510" cy="450" r="63"/><circle cx="485" cy="110" r="25"/></g>
+ <path d="M110 425h390" stroke="#9b7ab9" stroke-width="18" stroke-linecap="round"/>
+ <rect x="190" y="285" width="220" height="140" rx="18" fill="#fff9ff" stroke="#b8a1d2" stroke-width="7"/>
+ <rect x="213" y="307" width="174" height="90" rx="10" fill="#d8c9f6"/>
+ <path d="M235 330h115M235 351h88M235 372h123" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+ <path d="M275 426l-18 32h86l-17-32" fill="#9b7ab9"/>
+ <g transform="rotate(-13 155 251)"><rect x="85" y="209" width="145" height="81" rx="17" fill="#fff" stroke="#f0a7c7" stroke-width="4"/><circle cx="112" cy="234" r="10" fill="#f3a3c4"/><path d="M132 231h76M132 251h57M102 270h100" stroke="#b5a3c8" stroke-width="6" stroke-linecap="round"/></g>
+ <g transform="rotate(12 440 245)"><rect x="372" y="201" width="139" height="83" rx="16" fill="#fff" stroke="#a68cdb" stroke-width="4"/><circle cx="400" cy="229" r="10" fill="#a68cdb"/><path d="M419 226h73M419 246h48M389 266h98" stroke="#b5a3c8" stroke-width="6" stroke-linecap="round"/></g>
+ <g fill="#fff0a9"><path d="M300 106l9 22 22 9-22 9-9 22-9-22-22-9 22-9z"/><path d="M489 340l6 14 14 6-14 6-6 14-6-14-14-6 14-6z"/><path d="M103 346l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/></g>
+</svg>
